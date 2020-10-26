@@ -1,2 +1,3 @@
 [2020-10-20T20:42:49] commit #1 — chore: configure environment variables
 [2020-10-24T13:37:29] commit #2 — feat: build landing page
+[2020-10-26T12:14:00] commit #3 — refactor: simplify onboarding logic
