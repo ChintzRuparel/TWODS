@@ -5,3 +5,4 @@
 [2020-10-29T08:27:32] commit #5 — fix: patch payment gateway
 [2020-10-29T18:25:37] commit #6 — fix: handle timeout errors
 [2020-10-29T18:36:46] commit #7 — feat: add analytics tracking
+[2020-11-01T12:43:08] commit #8 — refactor: restructure API layer
