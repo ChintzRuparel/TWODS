@@ -12,3 +12,4 @@
 [2020-11-03T20:28:43] commit #12 — fix: resolve auth bug
 [2020-11-03T23:02:35] commit #13 — test: add integration tests
 [2020-11-04T10:24:44] commit #14 — feat: implement dashboard
+[2020-11-04T16:51:08] commit #15 — refactor: optimise database calls
