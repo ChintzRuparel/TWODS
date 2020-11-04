@@ -9,3 +9,4 @@
 [2020-11-01T18:49:12] commit #9 — feat: build investor report module
 [2020-11-01T22:58:25] commit #10 — feat: implement API endpoints
 [2020-11-03T14:34:44] commit #11 — feat: add data pipeline
+[2020-11-03T20:28:43] commit #12 — fix: resolve auth bug
