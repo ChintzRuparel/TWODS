@@ -14,3 +14,4 @@
 [2020-11-04T10:24:44] commit #14 — feat: implement dashboard
 [2020-11-04T16:51:08] commit #15 — refactor: optimise database calls
 [2020-11-04T20:23:55] commit #16 — feat: add data pipeline
+[2020-11-06T12:49:09] commit #17 — refactor: simplify onboarding logic
