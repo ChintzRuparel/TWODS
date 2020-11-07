@@ -17,3 +17,4 @@
 [2020-11-06T12:49:09] commit #17 — refactor: simplify onboarding logic
 [2020-11-06T14:26:06] commit #18 — feat: build investor report module
 [2020-11-06T22:16:19] commit #19 — feat: build investor report module
+[2020-11-07T10:09:59] commit #20 — fix: patch payment gateway
