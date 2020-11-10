@@ -21,3 +21,4 @@
 [2020-11-07T14:35:47] commit #21 — test: add end-to-end test coverage
 [2020-11-09T16:57:30] commit #22 — chore: update README
 [2020-11-09T23:59:08] commit #23 — fix: resolve memory leak
+[2020-11-10T16:08:00] commit #24 — feat: implement API endpoints
