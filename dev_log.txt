@@ -22,3 +22,4 @@
 [2020-11-09T16:57:30] commit #22 — chore: update README
 [2020-11-09T23:59:08] commit #23 — fix: resolve memory leak
 [2020-11-10T16:08:00] commit #24 — feat: implement API endpoints
+[2020-11-10T19:06:28] commit #25 — test: write unit tests for core logic
