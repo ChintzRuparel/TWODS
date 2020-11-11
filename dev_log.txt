@@ -24,3 +24,4 @@
 [2020-11-10T16:08:00] commit #24 — feat: implement API endpoints
 [2020-11-10T19:06:28] commit #25 — test: write unit tests for core logic
 [2020-11-11T16:54:29] commit #26 — feat: implement search
+[2020-11-11T18:26:34] commit #27 — chore: update dependencies
