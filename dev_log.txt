@@ -26,3 +26,4 @@
 [2020-11-11T16:54:29] commit #26 — feat: implement search
 [2020-11-11T18:26:34] commit #27 — chore: update dependencies
 [2020-11-11T21:28:07] commit #28 — feat: add onboarding flow
+[2020-11-12T12:08:06] commit #29 — feat: add notifications
