@@ -29,3 +29,4 @@
 [2020-11-12T12:08:06] commit #29 — feat: add notifications
 [2020-11-12T12:47:45] commit #30 — chore: configure environment variables
 [2020-11-12T21:44:06] commit #31 — style: polish UI components
+[2020-11-13T13:05:26] commit #32 — docs: update product roadmap
