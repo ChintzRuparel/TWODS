@@ -31,3 +31,4 @@
 [2020-11-12T21:44:06] commit #31 — style: polish UI components
 [2020-11-13T13:05:26] commit #32 — docs: update product roadmap
 [2020-11-13T18:47:32] commit #33 — feat: add payment integration
+[2020-11-13T20:11:15] commit #34 — chore: configure environment variables
