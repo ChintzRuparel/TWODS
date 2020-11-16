@@ -36,3 +36,4 @@
 [2020-11-15T12:52:23] commit #36 — test: add end-to-end test coverage
 [2020-11-16T10:22:10] commit #37 — perf: cache database queries
 [2020-11-16T12:15:07] commit #38 — chore: update README
+[2020-11-16T13:16:05] commit #39 — feat: build admin panel
