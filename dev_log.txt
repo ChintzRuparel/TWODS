@@ -42,3 +42,4 @@
 [2020-11-17T09:06:45] commit #42 — perf: reduce bundle size
 [2020-11-17T09:19:12] commit #43 — fix: resolve memory leak
 [2020-11-17T10:47:29] commit #44 — feat: build admin panel
+[2020-11-17T12:35:04] commit #45 — feat: add notifications
