@@ -39,3 +39,4 @@
 [2020-11-16T13:16:05] commit #39 — feat: build admin panel
 [2020-11-16T15:50:02] commit #40 — fix: resolve UI rendering bug
 [2020-11-16T22:42:43] commit #41 — feat: implement search
+[2020-11-17T09:06:45] commit #42 — perf: reduce bundle size
