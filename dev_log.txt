@@ -48,3 +48,4 @@
 [2020-11-17T23:19:44] commit #48 — feat: build investor report module
 [2020-11-18T08:58:03] commit #49 — fix: handle timeout errors
 [2020-11-18T12:09:27] commit #50 — feat: implement dashboard
+[2020-11-18T23:52:41] commit #51 — perf: optimise load time
