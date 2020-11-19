@@ -50,3 +50,4 @@
 [2020-11-18T12:09:27] commit #50 — feat: implement dashboard
 [2020-11-18T23:52:41] commit #51 — perf: optimise load time
 [2020-11-19T09:27:46] commit #52 — feat: implement search
+[2020-11-19T09:41:21] commit #53 — refactor: clean up auth flow
