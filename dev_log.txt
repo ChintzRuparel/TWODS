@@ -53,3 +53,4 @@
 [2020-11-19T09:41:21] commit #53 — refactor: clean up auth flow
 [2020-11-19T17:51:45] commit #54 — docs: write API documentation
 [2020-11-19T22:13:54] commit #55 — feat: build core module
+[2020-11-23T08:31:04] commit #56 — fix: resolve auth bug
