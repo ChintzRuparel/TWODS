@@ -56,3 +56,4 @@
 [2020-11-23T08:31:04] commit #56 — fix: resolve auth bug
 [2020-11-23T13:33:02] commit #57 — chore: update README
 [2020-11-23T22:20:26] commit #58 — chore: add .gitignore rules
+[2020-11-26T12:30:51] commit #59 — feat: build admin panel
