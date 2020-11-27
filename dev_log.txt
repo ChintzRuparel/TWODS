@@ -63,3 +63,4 @@
 [2020-11-27T08:51:47] commit #63 — docs: add setup instructions
 [2020-11-27T09:53:17] commit #64 — chore: update README
 [2020-11-27T13:46:48] commit #65 — refactor: modularise components
+[2020-11-27T17:57:42] commit #66 — fix: correct data sync issue
