@@ -65,3 +65,4 @@
 [2020-11-27T13:46:48] commit #65 — refactor: modularise components
 [2020-11-27T17:57:42] commit #66 — fix: correct data sync issue
 [2020-11-27T23:23:10] commit #67 — chore: set up CI/CD pipeline
+[2020-11-30T08:47:54] commit #68 — feat: add onboarding flow
