@@ -67,3 +67,4 @@
 [2020-11-27T23:23:10] commit #67 — chore: set up CI/CD pipeline
 [2020-11-30T08:47:54] commit #68 — feat: add onboarding flow
 [2020-11-30T10:38:28] commit #69 — refactor: simplify onboarding logic
+[2020-12-02T11:19:44] commit #70 — feat: build landing page
