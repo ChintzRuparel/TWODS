@@ -68,3 +68,4 @@
 [2020-11-30T08:47:54] commit #68 — feat: add onboarding flow
 [2020-11-30T10:38:28] commit #69 — refactor: simplify onboarding logic
 [2020-12-02T11:19:44] commit #70 — feat: build landing page
+[2020-12-05T09:56:36] commit #71 — test: add integration tests
