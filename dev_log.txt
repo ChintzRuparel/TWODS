@@ -71,3 +71,4 @@
 [2020-12-05T09:56:36] commit #71 — test: add integration tests
 [2020-12-07T11:16:41] commit #72 — docs: update product roadmap
 [2020-12-07T15:51:14] commit #73 — refactor: clean up auth flow
+[2020-12-07T16:48:55] commit #74 — feat: build admin panel
