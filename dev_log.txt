@@ -77,3 +77,4 @@
 [2020-12-10T21:48:04] commit #77 — fix: handle timeout errors
 [2020-12-10T23:00:43] commit #78 — feat: add notifications
 [2020-12-12T08:14:01] commit #79 — fix: edge case in user flow
+[2020-12-12T09:53:29] commit #80 — chore: update README
