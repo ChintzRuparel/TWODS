@@ -76,3 +76,4 @@
 [2020-12-09T16:43:38] commit #76 — fix: patch API response
 [2020-12-10T21:48:04] commit #77 — fix: handle timeout errors
 [2020-12-10T23:00:43] commit #78 — feat: add notifications
+[2020-12-12T08:14:01] commit #79 — fix: edge case in user flow
