@@ -81,3 +81,4 @@
 [2020-12-12T16:33:56] commit #81 — refactor: optimise database calls
 [2020-12-12T21:41:40] commit #82 — feat: add notifications
 [2020-12-17T16:14:37] commit #83 — feat: build investor report module
+[2020-12-18T22:31:41] commit #84 — fix: edge case in user flow
