@@ -84,3 +84,4 @@
 [2020-12-18T22:31:41] commit #84 — fix: edge case in user flow
 [2020-12-19T13:09:27] commit #85 — feat: add onboarding flow
 [2020-12-21T12:44:57] commit #86 — fix: patch API response
+[2020-12-21T17:49:30] commit #87 — feat: build core module
