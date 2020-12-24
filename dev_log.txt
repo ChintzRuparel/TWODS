@@ -87,3 +87,4 @@
 [2020-12-21T17:49:30] commit #87 — feat: build core module
 [2020-12-23T13:10:29] commit #88 — feat: add export functionality
 [2020-12-23T13:52:57] commit #89 — refactor: optimise database calls
+[2020-12-23T21:55:05] commit #90 — feat: add analytics tracking
