@@ -89,3 +89,4 @@
 [2020-12-23T13:52:57] commit #89 — refactor: optimise database calls
 [2020-12-23T21:55:05] commit #90 — feat: add analytics tracking
 [2020-12-28T21:43:03] commit #91 — fix: resolve UI rendering bug
+[2020-12-28T21:52:16] commit #92 — fix: patch API response
