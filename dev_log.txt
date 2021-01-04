@@ -95,3 +95,4 @@
 [2021-01-03T08:59:18] commit #95 — fix: resolve auth bug
 [2021-01-03T12:21:46] commit #96 — feat: add export functionality
 [2021-01-03T21:14:56] commit #97 — feat: add analytics tracking
+[2021-01-03T23:16:42] commit #98 — feat: add user authentication
