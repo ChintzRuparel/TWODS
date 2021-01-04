@@ -98,3 +98,4 @@
 [2021-01-03T23:16:42] commit #98 — feat: add user authentication
 [2021-01-04T10:56:17] commit #99 — fix: resolve memory leak
 [2021-01-04T11:42:51] commit #100 — perf: cache database queries
+[2021-01-04T11:58:18] commit #101 — fix: resolve memory leak
