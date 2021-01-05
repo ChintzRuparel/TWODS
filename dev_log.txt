@@ -104,3 +104,4 @@
 [2021-01-04T23:55:02] commit #104 — feat: build landing page
 [2021-01-05T10:19:02] commit #105 — chore: set up CI/CD pipeline
 [2021-01-05T14:32:16] commit #106 — feat: add onboarding flow
+[2021-01-05T17:18:21] commit #107 — perf: reduce bundle size
