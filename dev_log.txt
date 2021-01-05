@@ -101,3 +101,4 @@
 [2021-01-04T11:58:18] commit #101 — fix: resolve memory leak
 [2021-01-04T15:26:58] commit #102 — feat: add export functionality
 [2021-01-04T21:21:07] commit #103 — chore: configure environment variables
+[2021-01-04T23:55:02] commit #104 — feat: build landing page
