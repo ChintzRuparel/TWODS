@@ -106,3 +106,4 @@
 [2021-01-05T14:32:16] commit #106 — feat: add onboarding flow
 [2021-01-05T17:18:21] commit #107 — perf: reduce bundle size
 [2021-01-05T17:56:48] commit #108 — refactor: clean up auth flow
+[2021-01-05T19:42:20] commit #109 — feat: add user authentication
