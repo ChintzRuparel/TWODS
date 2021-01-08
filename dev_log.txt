@@ -113,3 +113,4 @@
 [2021-01-08T08:42:22] commit #113 — fix: resolve UI rendering bug
 [2021-01-08T11:51:11] commit #114 — test: write unit tests for core logic
 [2021-01-08T13:33:37] commit #115 — feat: add export functionality
+[2021-01-08T14:12:07] commit #116 — style: improve mobile responsiveness
