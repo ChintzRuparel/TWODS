@@ -115,3 +115,4 @@
 [2021-01-08T13:33:37] commit #115 — feat: add export functionality
 [2021-01-08T14:12:07] commit #116 — style: improve mobile responsiveness
 [2021-01-08T20:57:10] commit #117 — feat: build admin panel
+[2021-01-08T22:45:22] commit #118 — feat: add notifications
