@@ -117,3 +117,4 @@
 [2021-01-08T20:57:10] commit #117 — feat: build admin panel
 [2021-01-08T22:45:22] commit #118 — feat: add notifications
 [2021-01-10T09:42:55] commit #119 — feat: build landing page
+[2021-01-10T13:42:10] commit #120 — refactor: simplify onboarding logic
