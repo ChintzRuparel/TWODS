@@ -119,3 +119,4 @@
 [2021-01-10T09:42:55] commit #119 — feat: build landing page
 [2021-01-10T13:42:10] commit #120 — refactor: simplify onboarding logic
 [2021-01-11T11:18:12] commit #121 — feat: add user authentication
+[2021-01-11T14:58:01] commit #122 — fix: correct data sync issue
