@@ -122,3 +122,4 @@
 [2021-01-11T14:58:01] commit #122 — fix: correct data sync issue
 [2021-01-11T18:27:49] commit #123 — feat: build investor report module
 [2021-01-11T18:50:59] commit #124 — feat: build core module
+[2021-01-11T21:07:41] commit #125 — fix: resolve UI rendering bug
