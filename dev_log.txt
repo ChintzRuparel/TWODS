@@ -130,3 +130,4 @@
 [2021-01-13T16:03:16] commit #130 — test: add end-to-end test coverage
 [2021-01-13T21:24:40] commit #131 — fix: resolve memory leak
 [2021-01-14T14:02:38] commit #132 — feat: add onboarding flow
+[2021-01-14T16:32:21] commit #133 — feat: add user authentication
