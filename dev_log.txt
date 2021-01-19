@@ -136,3 +136,4 @@
 [2021-01-15T15:05:59] commit #136 — perf: cache database queries
 [2021-01-19T14:28:14] commit #137 — fix: resolve UI rendering bug
 [2021-01-19T16:47:37] commit #138 — perf: cache database queries
+[2021-01-19T18:17:43] commit #139 — perf: reduce bundle size
