@@ -139,3 +139,4 @@
 [2021-01-19T18:17:43] commit #139 — perf: reduce bundle size
 [2021-01-20T08:44:45] commit #140 — feat: add export functionality
 [2021-01-20T09:49:06] commit #141 — refactor: modularise components
+[2021-01-20T16:08:50] commit #142 — docs: add setup instructions
