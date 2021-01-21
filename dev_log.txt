@@ -144,3 +144,4 @@
 [2021-01-20T22:15:57] commit #144 — perf: optimise load time
 [2021-01-21T09:27:08] commit #145 — docs: update product roadmap
 [2021-01-21T14:16:54] commit #146 — feat: implement search
+[2021-01-21T16:47:45] commit #147 — refactor: restructure API layer
