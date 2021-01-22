@@ -146,3 +146,4 @@
 [2021-01-21T14:16:54] commit #146 — feat: implement search
 [2021-01-21T16:47:45] commit #147 — refactor: restructure API layer
 [2021-01-21T19:33:17] commit #148 — style: improve mobile responsiveness
+[2021-01-21T20:35:33] commit #149 — docs: update product roadmap
