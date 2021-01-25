@@ -153,3 +153,4 @@
 [2021-01-24T14:11:55] commit #153 — docs: update product roadmap
 [2021-01-25T08:12:31] commit #154 — feat: build core module
 [2021-01-25T08:22:37] commit #155 — fix: edge case in user flow
+[2021-01-25T15:07:33] commit #156 — chore: add .gitignore rules
