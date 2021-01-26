@@ -156,3 +156,4 @@
 [2021-01-25T15:07:33] commit #156 — chore: add .gitignore rules
 [2021-01-25T21:36:56] commit #157 — feat: add notifications
 [2021-01-25T22:50:54] commit #158 — fix: resolve auth bug
+[2021-01-25T23:43:39] commit #159 — refactor: modularise components
