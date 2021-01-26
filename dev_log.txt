@@ -159,3 +159,4 @@
 [2021-01-25T23:43:39] commit #159 — refactor: modularise components
 [2021-01-26T12:10:09] commit #160 — chore: configure environment variables
 [2021-01-26T14:49:13] commit #161 — style: polish UI components
+[2021-01-26T17:42:22] commit #162 — refactor: simplify onboarding logic
