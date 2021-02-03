@@ -161,3 +161,4 @@
 [2021-01-26T14:49:13] commit #161 — style: polish UI components
 [2021-01-26T17:42:22] commit #162 — refactor: simplify onboarding logic
 [2021-01-26T20:46:42] commit #163 — feat: implement search
+[2021-02-03T08:25:44] commit #164 — test: add integration tests
