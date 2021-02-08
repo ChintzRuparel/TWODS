@@ -170,3 +170,4 @@
 [2021-02-06T16:02:28] commit #170 — chore: set up CI/CD pipeline
 [2021-02-06T17:10:01] commit #171 — fix: resolve auth bug
 [2021-02-08T14:09:52] commit #172 — feat: implement dashboard
+[2021-02-08T15:10:19] commit #173 — perf: optimise load time
