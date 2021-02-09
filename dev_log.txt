@@ -173,3 +173,4 @@
 [2021-02-08T15:10:19] commit #173 — perf: optimise load time
 [2021-02-08T17:21:40] commit #174 — refactor: simplify onboarding logic
 [2021-02-08T19:44:21] commit #175 — feat: implement API endpoints
+[2021-02-08T21:04:22] commit #176 — feat: build core module
