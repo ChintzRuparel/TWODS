@@ -175,3 +175,4 @@
 [2021-02-08T19:44:21] commit #175 — feat: implement API endpoints
 [2021-02-08T21:04:22] commit #176 — feat: build core module
 [2021-02-10T12:17:43] commit #177 — refactor: restructure API layer
+[2021-02-10T18:07:27] commit #178 — feat: add user authentication
