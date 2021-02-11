@@ -179,3 +179,4 @@
 [2021-02-10T18:48:48] commit #179 — fix: correct database query
 [2021-02-11T10:43:47] commit #180 — perf: cache database queries
 [2021-02-11T12:26:36] commit #181 — chore: update dependencies
+[2021-02-11T13:31:29] commit #182 — fix: hotfix for production bug
