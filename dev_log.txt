@@ -181,3 +181,4 @@
 [2021-02-11T12:26:36] commit #181 — chore: update dependencies
 [2021-02-11T13:31:29] commit #182 — fix: hotfix for production bug
 [2021-02-11T18:06:08] commit #183 — docs: write API documentation
+[2021-02-11T19:34:52] commit #184 — perf: reduce bundle size
