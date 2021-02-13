@@ -184,3 +184,4 @@
 [2021-02-11T19:34:52] commit #184 — perf: reduce bundle size
 [2021-02-12T13:26:43] commit #185 — test: write unit tests for core logic
 [2021-02-12T16:47:36] commit #186 — fix: resolve UI rendering bug
+[2021-02-12T21:51:07] commit #187 — chore: clean up unused files
