@@ -186,3 +186,4 @@
 [2021-02-12T16:47:36] commit #186 — fix: resolve UI rendering bug
 [2021-02-12T21:51:07] commit #187 — chore: clean up unused files
 [2021-02-14T08:33:22] commit #188 — feat: add export functionality
+[2021-02-14T10:43:33] commit #189 — chore: configure environment variables
