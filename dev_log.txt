@@ -189,3 +189,4 @@
 [2021-02-14T10:43:33] commit #189 — chore: configure environment variables
 [2021-02-14T14:23:23] commit #190 — feat: add user authentication
 [2021-02-14T17:20:50] commit #191 — docs: add setup instructions
+[2021-02-14T21:31:14] commit #192 — chore: add .gitignore rules
