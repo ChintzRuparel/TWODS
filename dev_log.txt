@@ -192,3 +192,4 @@
 [2021-02-14T21:31:14] commit #192 — chore: add .gitignore rules
 [2021-02-14T22:53:29] commit #193 — refactor: restructure API layer
 [2021-02-15T10:36:18] commit #194 — feat: implement API endpoints
+[2021-02-15T14:02:59] commit #195 — perf: reduce bundle size
