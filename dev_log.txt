@@ -198,3 +198,4 @@
 [2021-02-16T10:15:34] commit #198 — feat: add analytics tracking
 [2021-02-16T23:43:07] commit #199 — chore: clean up unused files
 [2021-02-18T10:40:51] commit #200 — perf: optimise load time
+[2021-02-18T11:20:48] commit #201 — docs: update product roadmap
