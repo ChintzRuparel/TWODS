@@ -200,3 +200,4 @@
 [2021-02-18T10:40:51] commit #200 — perf: optimise load time
 [2021-02-18T11:20:48] commit #201 — docs: update product roadmap
 [2021-02-18T11:29:46] commit #202 — refactor: simplify onboarding logic
+[2021-02-18T13:15:12] commit #203 — feat: add analytics tracking
