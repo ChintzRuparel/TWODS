@@ -201,3 +201,4 @@
 [2021-02-18T11:20:48] commit #201 — docs: update product roadmap
 [2021-02-18T11:29:46] commit #202 — refactor: simplify onboarding logic
 [2021-02-18T13:15:12] commit #203 — feat: add analytics tracking
+[2021-02-18T14:01:56] commit #204 — chore: configure environment variables
