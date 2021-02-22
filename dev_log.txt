@@ -203,3 +203,4 @@
 [2021-02-18T13:15:12] commit #203 — feat: add analytics tracking
 [2021-02-18T14:01:56] commit #204 — chore: configure environment variables
 [2021-02-18T16:43:23] commit #205 — fix: resolve UI rendering bug
+[2021-02-22T18:58:58] commit #206 — docs: write API documentation
