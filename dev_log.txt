@@ -207,3 +207,4 @@
 [2021-02-22T22:45:35] commit #207 — chore: update dependencies
 [2021-02-22T23:26:31] commit #208 — fix: resolve auth bug
 [2021-02-24T14:42:25] commit #209 — feat: add notifications
+[2021-02-24T18:06:53] commit #210 — feat: add export functionality
