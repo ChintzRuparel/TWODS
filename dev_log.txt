@@ -214,3 +214,4 @@
 [2021-02-24T22:11:59] commit #214 — fix: resolve auth bug
 [2021-02-25T08:20:05] commit #215 — chore: clean up unused files
 [2021-02-25T14:23:13] commit #216 — refactor: simplify onboarding logic
+[2021-02-25T17:40:08] commit #217 — fix: correct database query
