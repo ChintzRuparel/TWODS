@@ -209,3 +209,4 @@
 [2021-02-24T14:42:25] commit #209 — feat: add notifications
 [2021-02-24T18:06:53] commit #210 — feat: add export functionality
 [2021-02-24T18:55:04] commit #211 — feat: add user authentication
+[2021-02-24T19:03:21] commit #212 — test: add end-to-end test coverage
