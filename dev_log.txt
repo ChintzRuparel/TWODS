@@ -210,3 +210,4 @@
 [2021-02-24T18:06:53] commit #210 — feat: add export functionality
 [2021-02-24T18:55:04] commit #211 — feat: add user authentication
 [2021-02-24T19:03:21] commit #212 — test: add end-to-end test coverage
+[2021-02-24T22:00:42] commit #213 — refactor: optimise database calls
