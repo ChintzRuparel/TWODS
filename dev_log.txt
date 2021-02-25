@@ -212,3 +212,4 @@
 [2021-02-24T19:03:21] commit #212 — test: add end-to-end test coverage
 [2021-02-24T22:00:42] commit #213 — refactor: optimise database calls
 [2021-02-24T22:11:59] commit #214 — fix: resolve auth bug
+[2021-02-25T08:20:05] commit #215 — chore: clean up unused files
