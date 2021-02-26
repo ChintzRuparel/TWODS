@@ -217,3 +217,4 @@
 [2021-02-25T17:40:08] commit #217 — fix: correct database query
 [2021-02-25T22:33:57] commit #218 — chore: configure environment variables
 [2021-02-26T08:39:11] commit #219 — chore: clean up unused files
+[2021-02-26T12:25:19] commit #220 — feat: implement search
