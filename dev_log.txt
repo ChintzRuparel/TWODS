@@ -220,3 +220,4 @@
 [2021-02-26T12:25:19] commit #220 — feat: implement search
 [2021-02-26T17:42:21] commit #221 — feat: build investor report module
 [2021-03-01T17:59:59] commit #222 — style: polish UI components
+[2021-03-02T16:13:28] commit #223 — test: write unit tests for core logic
