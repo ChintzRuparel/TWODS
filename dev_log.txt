@@ -224,3 +224,4 @@
 [2021-03-02T18:02:45] commit #224 — style: polish UI components
 [2021-03-02T19:41:53] commit #225 — feat: add onboarding flow
 [2021-03-02T22:21:23] commit #226 — refactor: optimise database calls
+[2021-03-05T19:49:26] commit #227 — style: polish UI components
