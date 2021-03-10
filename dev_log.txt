@@ -227,3 +227,4 @@
 [2021-03-05T19:49:26] commit #227 — style: polish UI components
 [2021-03-06T14:07:43] commit #228 — style: polish UI components
 [2021-03-06T14:10:55] commit #229 — feat: implement websockets
+[2021-03-09T21:18:08] commit #230 — refactor: restructure API layer
