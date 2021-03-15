@@ -230,3 +230,4 @@
 [2021-03-09T21:18:08] commit #230 — refactor: restructure API layer
 [2021-03-12T17:54:36] commit #231 — fix: hotfix for production bug
 [2021-03-14T18:12:26] commit #232 — chore: set up CI/CD pipeline
+[2021-03-15T14:57:41] commit #233 — feat: add export functionality
