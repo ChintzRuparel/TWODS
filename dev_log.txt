@@ -231,3 +231,4 @@
 [2021-03-12T17:54:36] commit #231 — fix: hotfix for production bug
 [2021-03-14T18:12:26] commit #232 — chore: set up CI/CD pipeline
 [2021-03-15T14:57:41] commit #233 — feat: add export functionality
+[2021-03-16T14:04:30] commit #234 — feat: build landing page
