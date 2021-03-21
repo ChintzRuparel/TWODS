@@ -234,3 +234,4 @@
 [2021-03-16T14:04:30] commit #234 — feat: build landing page
 [2021-03-18T10:19:54] commit #235 — docs: write API documentation
 [2021-03-19T20:09:38] commit #236 — fix: edge case in user flow
+[2021-03-21T13:46:12] commit #237 — fix: correct database query
