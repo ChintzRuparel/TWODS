@@ -238,3 +238,4 @@
 [2021-03-21T19:30:10] commit #238 — feat: implement websockets
 [2021-03-25T20:40:53] commit #239 — docs: add setup instructions
 [2021-03-27T20:32:15] commit #240 — feat: implement websockets
+[2021-03-28T08:11:25] commit #241 — docs: write API documentation
