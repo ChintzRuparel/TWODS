@@ -241,3 +241,4 @@
 [2021-03-28T08:11:25] commit #241 — docs: write API documentation
 [2021-04-01T09:40:28] commit #242 — chore: update README
 [2021-04-01T13:22:18] commit #243 — feat: add payment integration
+[2021-04-01T13:40:37] commit #244 — docs: write API documentation
