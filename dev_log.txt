@@ -247,3 +247,4 @@
 [2021-04-01T20:16:49] commit #247 — fix: correct data sync issue
 [2021-04-04T10:11:52] commit #248 — fix: correct data sync issue
 [2021-04-04T12:34:26] commit #249 — fix: resolve UI rendering bug
+[2021-04-04T15:56:55] commit #250 — fix: patch payment gateway
