@@ -249,3 +249,4 @@
 [2021-04-04T12:34:26] commit #249 — fix: resolve UI rendering bug
 [2021-04-04T15:56:55] commit #250 — fix: patch payment gateway
 [2021-04-04T18:08:54] commit #251 — refactor: clean up auth flow
+[2021-04-04T19:23:40] commit #252 — chore: set up CI/CD pipeline
