@@ -250,3 +250,4 @@
 [2021-04-04T15:56:55] commit #250 — fix: patch payment gateway
 [2021-04-04T18:08:54] commit #251 — refactor: clean up auth flow
 [2021-04-04T19:23:40] commit #252 — chore: set up CI/CD pipeline
+[2021-04-05T09:13:20] commit #253 — fix: edge case in user flow
