@@ -254,3 +254,4 @@
 [2021-04-05T10:13:53] commit #254 — feat: implement API endpoints
 [2021-04-05T21:45:46] commit #255 — style: polish UI components
 [2021-04-06T08:51:41] commit #256 — fix: correct database query
+[2021-04-06T14:42:46] commit #257 — fix: resolve memory leak
