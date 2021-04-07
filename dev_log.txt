@@ -259,3 +259,4 @@
 [2021-04-07T08:30:43] commit #259 — perf: cache database queries
 [2021-04-07T10:49:30] commit #260 — fix: patch API response
 [2021-04-07T11:55:11] commit #261 — chore: clean up unused files
+[2021-04-07T13:20:28] commit #262 — fix: patch API response
