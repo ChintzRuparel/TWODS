@@ -256,3 +256,4 @@
 [2021-04-06T08:51:41] commit #256 — fix: correct database query
 [2021-04-06T14:42:46] commit #257 — fix: resolve memory leak
 [2021-04-06T22:11:52] commit #258 — feat: build landing page
+[2021-04-07T08:30:43] commit #259 — perf: cache database queries
