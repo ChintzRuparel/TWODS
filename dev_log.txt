@@ -264,3 +264,4 @@
 [2021-04-08T20:18:09] commit #264 — fix: hotfix for production bug
 [2021-04-09T11:22:22] commit #265 — fix: resolve memory leak
 [2021-04-09T13:14:01] commit #266 — test: add end-to-end test coverage
+[2021-04-09T15:10:58] commit #267 — feat: add payment integration
