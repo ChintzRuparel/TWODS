@@ -262,3 +262,4 @@
 [2021-04-07T13:20:28] commit #262 — fix: patch API response
 [2021-04-08T17:44:29] commit #263 — fix: patch API response
 [2021-04-08T20:18:09] commit #264 — fix: hotfix for production bug
+[2021-04-09T11:22:22] commit #265 — fix: resolve memory leak
