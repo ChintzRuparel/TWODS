@@ -272,3 +272,4 @@
 [2021-04-11T18:05:28] commit #272 — chore: update dependencies
 [2021-04-11T21:45:02] commit #273 — feat: implement API endpoints
 [2021-04-12T15:46:11] commit #274 — perf: reduce bundle size
+[2021-04-13T08:24:34] commit #275 — feat: add notifications
