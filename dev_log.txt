@@ -274,3 +274,4 @@
 [2021-04-12T15:46:11] commit #274 — perf: reduce bundle size
 [2021-04-13T08:24:34] commit #275 — feat: add notifications
 [2021-04-13T21:16:02] commit #276 — feat: add data pipeline
+[2021-04-16T14:32:28] commit #277 — docs: write API documentation
