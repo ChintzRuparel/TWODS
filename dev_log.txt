@@ -276,3 +276,4 @@
 [2021-04-13T21:16:02] commit #276 — feat: add data pipeline
 [2021-04-16T14:32:28] commit #277 — docs: write API documentation
 [2021-04-16T23:40:34] commit #278 — test: write unit tests for core logic
+[2021-04-18T16:54:47] commit #279 — chore: configure environment variables
