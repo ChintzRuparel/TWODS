@@ -283,3 +283,4 @@
 [2021-04-19T09:22:13] commit #283 — chore: set up CI/CD pipeline
 [2021-04-19T09:58:19] commit #284 — feat: add analytics tracking
 [2021-04-19T10:38:08] commit #285 — fix: resolve auth bug
+[2021-04-19T12:07:46] commit #286 — refactor: optimise database calls
