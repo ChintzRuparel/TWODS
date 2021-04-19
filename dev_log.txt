@@ -279,3 +279,4 @@
 [2021-04-18T16:54:47] commit #279 — chore: configure environment variables
 [2021-04-18T17:51:51] commit #280 — feat: add user authentication
 [2021-04-18T23:54:49] commit #281 — refactor: restructure API layer
+[2021-04-19T08:40:01] commit #282 — feat: add notifications
