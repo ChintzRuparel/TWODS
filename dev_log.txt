@@ -281,3 +281,4 @@
 [2021-04-18T23:54:49] commit #281 — refactor: restructure API layer
 [2021-04-19T08:40:01] commit #282 — feat: add notifications
 [2021-04-19T09:22:13] commit #283 — chore: set up CI/CD pipeline
+[2021-04-19T09:58:19] commit #284 — feat: add analytics tracking
