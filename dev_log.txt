@@ -285,3 +285,4 @@
 [2021-04-19T10:38:08] commit #285 — fix: resolve auth bug
 [2021-04-19T12:07:46] commit #286 — refactor: optimise database calls
 [2021-04-19T16:36:11] commit #287 — style: polish UI components
+[2021-04-19T23:29:22] commit #288 — chore: clean up unused files
