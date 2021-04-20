@@ -288,3 +288,4 @@
 [2021-04-19T23:29:22] commit #288 — chore: clean up unused files
 [2021-04-20T09:38:11] commit #289 — chore: add .gitignore rules
 [2021-04-20T17:06:47] commit #290 — feat: add export functionality
+[2021-04-20T18:25:10] commit #291 — docs: add setup instructions
