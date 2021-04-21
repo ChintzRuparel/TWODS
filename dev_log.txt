@@ -292,3 +292,4 @@
 [2021-04-20T21:54:19] commit #292 — perf: optimise load time
 [2021-04-20T22:05:26] commit #293 — fix: correct database query
 [2021-04-20T22:07:37] commit #294 — test: add end-to-end test coverage
+[2021-04-21T08:34:03] commit #295 — chore: add .gitignore rules
