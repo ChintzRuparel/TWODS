@@ -290,3 +290,4 @@
 [2021-04-20T17:06:47] commit #290 — feat: add export functionality
 [2021-04-20T18:25:10] commit #291 — docs: add setup instructions
 [2021-04-20T21:54:19] commit #292 — perf: optimise load time
+[2021-04-20T22:05:26] commit #293 — fix: correct database query
