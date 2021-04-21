@@ -294,3 +294,4 @@
 [2021-04-20T22:07:37] commit #294 — test: add end-to-end test coverage
 [2021-04-21T08:34:03] commit #295 — chore: add .gitignore rules
 [2021-04-21T14:08:10] commit #296 — fix: resolve auth bug
+[2021-04-21T14:25:47] commit #297 — perf: reduce bundle size
