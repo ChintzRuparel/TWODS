@@ -296,3 +296,4 @@
 [2021-04-21T14:08:10] commit #296 — fix: resolve auth bug
 [2021-04-21T14:25:47] commit #297 — perf: reduce bundle size
 [2021-04-21T18:51:22] commit #298 — feat: build landing page
+[2021-04-21T21:38:22] commit #299 — feat: add onboarding flow
