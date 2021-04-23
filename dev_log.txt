@@ -298,3 +298,4 @@
 [2021-04-21T18:51:22] commit #298 — feat: build landing page
 [2021-04-21T21:38:22] commit #299 — feat: add onboarding flow
 [2021-04-22T20:35:26] commit #300 — feat: implement dashboard
+[2021-04-22T23:20:01] commit #301 — feat: build core module
