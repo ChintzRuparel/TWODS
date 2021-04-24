@@ -300,3 +300,4 @@
 [2021-04-22T20:35:26] commit #300 — feat: implement dashboard
 [2021-04-22T23:20:01] commit #301 — feat: build core module
 [2021-04-23T08:20:14] commit #302 — fix: resolve UI rendering bug
+[2021-04-24T11:26:44] commit #303 — fix: resolve memory leak
