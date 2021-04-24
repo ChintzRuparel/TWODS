@@ -302,3 +302,4 @@
 [2021-04-23T08:20:14] commit #302 — fix: resolve UI rendering bug
 [2021-04-24T11:26:44] commit #303 — fix: resolve memory leak
 [2021-04-24T16:03:56] commit #304 — feat: build admin panel
+[2021-04-24T19:15:31] commit #305 — chore: update dependencies
