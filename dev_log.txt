@@ -305,3 +305,4 @@
 [2021-04-24T19:15:31] commit #305 — chore: update dependencies
 [2021-04-24T22:15:08] commit #306 — refactor: simplify onboarding logic
 [2021-04-25T15:24:01] commit #307 — style: improve mobile responsiveness
+[2021-04-25T15:31:20] commit #308 — fix: patch payment gateway
