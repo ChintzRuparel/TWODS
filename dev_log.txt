@@ -309,3 +309,4 @@
 [2021-04-25T18:44:44] commit #309 — perf: reduce bundle size
 [2021-04-25T21:15:37] commit #310 — feat: build admin panel
 [2021-04-26T08:29:54] commit #311 — feat: build landing page
+[2021-04-26T22:11:26] commit #312 — feat: implement websockets
