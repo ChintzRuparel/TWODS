@@ -313,3 +313,4 @@
 [2021-04-27T13:06:29] commit #313 — fix: patch payment gateway
 [2021-04-27T18:03:27] commit #314 — feat: build admin panel
 [2021-04-28T16:52:28] commit #315 — feat: add user authentication
+[2021-04-28T17:00:06] commit #316 — feat: add payment integration
