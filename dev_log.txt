@@ -318,3 +318,4 @@
 [2021-04-28T22:29:08] commit #318 — fix: resolve memory leak
 [2021-04-29T10:37:24] commit #319 — feat: build investor report module
 [2021-04-29T15:09:00] commit #320 — feat: build landing page
+[2021-04-29T17:15:01] commit #321 — chore: configure environment variables
