@@ -322,3 +322,4 @@
 [2021-04-30T14:19:15] commit #322 — perf: cache database queries
 [2021-05-04T10:47:43] commit #323 — chore: update README
 [2021-05-04T11:53:47] commit #324 — feat: add payment integration
+[2021-05-04T17:56:26] commit #325 — chore: update README
