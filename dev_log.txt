@@ -320,3 +320,4 @@
 [2021-04-29T15:09:00] commit #320 — feat: build landing page
 [2021-04-29T17:15:01] commit #321 — chore: configure environment variables
 [2021-04-30T14:19:15] commit #322 — perf: cache database queries
+[2021-05-04T10:47:43] commit #323 — chore: update README
