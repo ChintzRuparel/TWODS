@@ -323,3 +323,4 @@
 [2021-05-04T10:47:43] commit #323 — chore: update README
 [2021-05-04T11:53:47] commit #324 — feat: add payment integration
 [2021-05-04T17:56:26] commit #325 — chore: update README
+[2021-05-05T13:10:40] commit #326 — feat: build investor report module
