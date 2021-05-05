@@ -325,3 +325,4 @@
 [2021-05-04T17:56:26] commit #325 — chore: update README
 [2021-05-05T13:10:40] commit #326 — feat: build investor report module
 [2021-05-05T16:01:59] commit #327 — fix: correct database query
+[2021-05-05T19:39:03] commit #328 — feat: add export functionality
