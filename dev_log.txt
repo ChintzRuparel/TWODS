@@ -327,3 +327,4 @@
 [2021-05-05T16:01:59] commit #327 — fix: correct database query
 [2021-05-05T19:39:03] commit #328 — feat: add export functionality
 [2021-05-06T09:22:37] commit #329 — chore: clean up unused files
+[2021-05-08T12:24:26] commit #330 — chore: update README
