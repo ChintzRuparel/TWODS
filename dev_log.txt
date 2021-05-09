@@ -330,3 +330,4 @@
 [2021-05-08T12:24:26] commit #330 — chore: update README
 [2021-05-08T14:09:08] commit #331 — style: improve mobile responsiveness
 [2021-05-08T20:54:28] commit #332 — feat: add notifications
+[2021-05-09T11:03:17] commit #333 — chore: add .gitignore rules
