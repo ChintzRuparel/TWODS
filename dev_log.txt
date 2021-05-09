@@ -329,3 +329,4 @@
 [2021-05-06T09:22:37] commit #329 — chore: clean up unused files
 [2021-05-08T12:24:26] commit #330 — chore: update README
 [2021-05-08T14:09:08] commit #331 — style: improve mobile responsiveness
+[2021-05-08T20:54:28] commit #332 — feat: add notifications
