@@ -335,3 +335,4 @@
 [2021-05-10T13:21:05] commit #335 — feat: add notifications
 [2021-05-10T14:11:34] commit #336 — test: write unit tests for core logic
 [2021-05-10T18:12:03] commit #337 — feat: add analytics tracking
+[2021-05-10T18:39:58] commit #338 — refactor: simplify onboarding logic
