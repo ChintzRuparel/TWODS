@@ -339,3 +339,4 @@
 [2021-05-10T21:43:23] commit #339 — feat: implement search
 [2021-05-11T12:01:15] commit #340 — chore: clean up unused files
 [2021-05-11T14:50:03] commit #341 — feat: implement API endpoints
+[2021-05-11T17:17:07] commit #342 — feat: implement websockets
