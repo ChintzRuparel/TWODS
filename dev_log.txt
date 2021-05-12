@@ -345,3 +345,4 @@
 [2021-05-12T10:40:32] commit #345 — feat: add user authentication
 [2021-05-12T15:06:54] commit #346 — fix: resolve memory leak
 [2021-05-12T17:23:17] commit #347 — feat: implement websockets
+[2021-05-12T17:30:01] commit #348 — refactor: simplify onboarding logic
