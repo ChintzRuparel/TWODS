@@ -344,3 +344,4 @@
 [2021-05-12T10:24:58] commit #344 — perf: cache database queries
 [2021-05-12T10:40:32] commit #345 — feat: add user authentication
 [2021-05-12T15:06:54] commit #346 — fix: resolve memory leak
+[2021-05-12T17:23:17] commit #347 — feat: implement websockets
