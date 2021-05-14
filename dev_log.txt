@@ -352,3 +352,4 @@
 [2021-05-13T18:55:08] commit #352 — feat: build admin panel
 [2021-05-13T20:35:59] commit #353 — feat: add payment integration
 [2021-05-13T20:52:36] commit #354 — fix: edge case in user flow
+[2021-05-13T23:49:35] commit #355 — chore: update dependencies
