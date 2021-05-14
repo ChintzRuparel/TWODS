@@ -350,3 +350,4 @@
 [2021-05-12T20:14:25] commit #350 — perf: reduce bundle size
 [2021-05-12T20:20:55] commit #351 — chore: set up CI/CD pipeline
 [2021-05-13T18:55:08] commit #352 — feat: build admin panel
+[2021-05-13T20:35:59] commit #353 — feat: add payment integration
