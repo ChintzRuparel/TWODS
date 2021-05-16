@@ -356,3 +356,4 @@
 [2021-05-15T11:02:44] commit #356 — fix: hotfix for production bug
 [2021-05-15T12:35:46] commit #357 — feat: add onboarding flow
 [2021-05-15T18:34:35] commit #358 — feat: implement search
+[2021-05-15T22:18:32] commit #359 — chore: set up CI/CD pipeline
