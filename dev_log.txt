@@ -358,3 +358,4 @@
 [2021-05-15T18:34:35] commit #358 — feat: implement search
 [2021-05-15T22:18:32] commit #359 — chore: set up CI/CD pipeline
 [2021-05-15T23:10:10] commit #360 — docs: add setup instructions
+[2021-05-16T08:42:29] commit #361 — feat: add payment integration
