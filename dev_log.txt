@@ -361,3 +361,4 @@
 [2021-05-16T08:42:29] commit #361 — feat: add payment integration
 [2021-05-16T09:47:04] commit #362 — docs: add setup instructions
 [2021-05-16T10:59:06] commit #363 — feat: add user authentication
+[2021-05-16T15:00:27] commit #364 — perf: optimise load time
