@@ -359,3 +359,4 @@
 [2021-05-15T22:18:32] commit #359 — chore: set up CI/CD pipeline
 [2021-05-15T23:10:10] commit #360 — docs: add setup instructions
 [2021-05-16T08:42:29] commit #361 — feat: add payment integration
+[2021-05-16T09:47:04] commit #362 — docs: add setup instructions
