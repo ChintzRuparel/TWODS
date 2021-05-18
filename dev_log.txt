@@ -365,3 +365,4 @@
 [2021-05-16T23:55:37] commit #365 — test: add integration tests
 [2021-05-17T13:58:32] commit #366 — chore: clean up unused files
 [2021-05-17T19:00:42] commit #367 — perf: reduce bundle size
+[2021-05-17T22:40:46] commit #368 — refactor: clean up auth flow
