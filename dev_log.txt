@@ -367,3 +367,4 @@
 [2021-05-17T19:00:42] commit #367 — perf: reduce bundle size
 [2021-05-17T22:40:46] commit #368 — refactor: clean up auth flow
 [2021-05-19T13:27:12] commit #369 — fix: correct database query
+[2021-05-20T15:50:05] commit #370 — docs: write API documentation
