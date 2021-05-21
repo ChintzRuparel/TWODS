@@ -369,3 +369,4 @@
 [2021-05-19T13:27:12] commit #369 — fix: correct database query
 [2021-05-20T15:50:05] commit #370 — docs: write API documentation
 [2021-05-20T23:44:17] commit #371 — fix: patch API response
+[2021-05-21T14:07:04] commit #372 — feat: implement API endpoints
