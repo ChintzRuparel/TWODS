@@ -371,3 +371,4 @@
 [2021-05-20T23:44:17] commit #371 — fix: patch API response
 [2021-05-21T14:07:04] commit #372 — feat: implement API endpoints
 [2021-05-21T17:57:49] commit #373 — feat: add data pipeline
+[2021-05-22T08:27:21] commit #374 — chore: set up CI/CD pipeline
