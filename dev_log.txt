@@ -374,3 +374,4 @@
 [2021-05-22T08:27:21] commit #374 — chore: set up CI/CD pipeline
 [2021-05-22T09:06:44] commit #375 — feat: add onboarding flow
 [2021-05-22T11:14:10] commit #376 — test: write unit tests for core logic
+[2021-05-24T08:45:01] commit #377 — style: polish UI components
