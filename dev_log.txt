@@ -377,3 +377,4 @@
 [2021-05-24T08:45:01] commit #377 — style: polish UI components
 [2021-05-24T22:18:49] commit #378 — chore: update README
 [2021-05-25T10:22:52] commit #379 — refactor: optimise database calls
+[2021-05-25T10:44:40] commit #380 — chore: configure environment variables
