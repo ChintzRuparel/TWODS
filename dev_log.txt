@@ -380,3 +380,4 @@
 [2021-05-25T10:44:40] commit #380 — chore: configure environment variables
 [2021-05-26T08:14:32] commit #381 — feat: implement dashboard
 [2021-05-26T09:15:26] commit #382 — feat: build admin panel
+[2021-05-26T11:24:08] commit #383 — fix: correct data sync issue
