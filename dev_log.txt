@@ -385,3 +385,4 @@
 [2021-05-26T20:26:58] commit #385 — chore: add .gitignore rules
 [2021-05-26T22:12:32] commit #386 — feat: add analytics tracking
 [2021-05-26T23:09:34] commit #387 — test: add integration tests
+[2021-05-27T08:45:19] commit #388 — test: add end-to-end test coverage
