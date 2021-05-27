@@ -384,3 +384,4 @@
 [2021-05-26T19:02:21] commit #384 — chore: set up CI/CD pipeline
 [2021-05-26T20:26:58] commit #385 — chore: add .gitignore rules
 [2021-05-26T22:12:32] commit #386 — feat: add analytics tracking
+[2021-05-26T23:09:34] commit #387 — test: add integration tests
