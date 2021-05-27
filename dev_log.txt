@@ -382,3 +382,4 @@
 [2021-05-26T09:15:26] commit #382 — feat: build admin panel
 [2021-05-26T11:24:08] commit #383 — fix: correct data sync issue
 [2021-05-26T19:02:21] commit #384 — chore: set up CI/CD pipeline
+[2021-05-26T20:26:58] commit #385 — chore: add .gitignore rules
