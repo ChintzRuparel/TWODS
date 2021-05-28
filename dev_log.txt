@@ -388,3 +388,4 @@
 [2021-05-27T08:45:19] commit #388 — test: add end-to-end test coverage
 [2021-05-27T17:36:38] commit #389 — feat: add user authentication
 [2021-05-27T17:58:00] commit #390 — refactor: simplify onboarding logic
+[2021-05-27T20:36:20] commit #391 — feat: add notifications
