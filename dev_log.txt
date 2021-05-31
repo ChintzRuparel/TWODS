@@ -393,3 +393,4 @@
 [2021-05-31T08:08:24] commit #393 — feat: implement search
 [2021-05-31T12:40:17] commit #394 — perf: cache database queries
 [2021-05-31T14:40:35] commit #395 — style: improve mobile responsiveness
+[2021-05-31T15:02:05] commit #396 — test: write unit tests for core logic
