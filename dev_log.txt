@@ -391,3 +391,4 @@
 [2021-05-27T20:36:20] commit #391 — feat: add notifications
 [2021-05-27T23:12:13] commit #392 — fix: correct database query
 [2021-05-31T08:08:24] commit #393 — feat: implement search
+[2021-05-31T12:40:17] commit #394 — perf: cache database queries
