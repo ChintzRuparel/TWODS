@@ -396,3 +396,4 @@
 [2021-05-31T15:02:05] commit #396 — test: write unit tests for core logic
 [2021-05-31T22:47:12] commit #397 — feat: add data pipeline
 [2021-05-31T23:02:02] commit #398 — test: add integration tests
+[2021-06-02T15:41:42] commit #399 — docs: write API documentation
