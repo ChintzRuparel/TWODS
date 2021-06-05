@@ -398,3 +398,4 @@
 [2021-05-31T23:02:02] commit #398 — test: add integration tests
 [2021-06-02T15:41:42] commit #399 — docs: write API documentation
 [2021-06-04T13:27:38] commit #400 — fix: correct database query
+[2021-06-05T15:10:32] commit #401 — fix: correct database query
