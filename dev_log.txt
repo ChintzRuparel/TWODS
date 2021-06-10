@@ -403,3 +403,4 @@
 [2021-06-07T23:06:57] commit #403 — docs: update product roadmap
 [2021-06-09T10:30:51] commit #404 — refactor: optimise database calls
 [2021-06-09T15:05:34] commit #405 — perf: reduce bundle size
+[2021-06-09T21:23:12] commit #406 — refactor: optimise database calls
