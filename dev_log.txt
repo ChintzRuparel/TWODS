@@ -405,3 +405,4 @@
 [2021-06-09T15:05:34] commit #405 — perf: reduce bundle size
 [2021-06-09T21:23:12] commit #406 — refactor: optimise database calls
 [2021-06-10T19:19:13] commit #407 — fix: handle timeout errors
+[2021-06-11T23:25:15] commit #408 — perf: cache database queries
