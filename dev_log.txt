@@ -409,3 +409,4 @@
 [2021-06-18T09:53:00] commit #409 — feat: implement websockets
 [2021-06-18T11:14:31] commit #410 — perf: reduce bundle size
 [2021-06-18T19:08:41] commit #411 — chore: update dependencies
+[2021-06-18T19:36:08] commit #412 — refactor: clean up auth flow
