@@ -411,3 +411,4 @@
 [2021-06-18T19:08:41] commit #411 — chore: update dependencies
 [2021-06-18T19:36:08] commit #412 — refactor: clean up auth flow
 [2021-06-18T23:41:52] commit #413 — feat: implement API endpoints
+[2021-06-23T14:53:08] commit #414 — feat: implement websockets
