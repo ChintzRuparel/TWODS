@@ -414,3 +414,4 @@
 [2021-06-23T14:53:08] commit #414 — feat: implement websockets
 [2021-06-25T22:13:20] commit #415 — chore: set up CI/CD pipeline
 [2021-06-25T22:56:07] commit #416 — refactor: optimise database calls
+[2021-06-25T23:26:26] commit #417 — fix: correct data sync issue
