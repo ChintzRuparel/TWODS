@@ -416,3 +416,4 @@
 [2021-06-25T22:56:07] commit #416 — refactor: optimise database calls
 [2021-06-25T23:26:26] commit #417 — fix: correct data sync issue
 [2021-06-30T22:51:11] commit #418 — chore: add .gitignore rules
+[2021-07-03T09:34:03] commit #419 — chore: update README
