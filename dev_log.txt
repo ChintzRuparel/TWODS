@@ -419,3 +419,4 @@
 [2021-07-03T09:34:03] commit #419 — chore: update README
 [2021-07-05T09:58:53] commit #420 — fix: correct database query
 [2021-07-05T16:59:01] commit #421 — test: write unit tests for core logic
+[2021-07-05T19:39:47] commit #422 — feat: add user authentication
