@@ -425,3 +425,4 @@
 [2021-07-09T08:32:17] commit #425 — feat: add analytics tracking
 [2021-07-09T13:48:35] commit #426 — feat: add payment integration
 [2021-07-09T16:28:35] commit #427 — fix: hotfix for production bug
+[2021-07-09T19:48:41] commit #428 — docs: update product roadmap
