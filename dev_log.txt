@@ -427,3 +427,4 @@
 [2021-07-09T16:28:35] commit #427 — fix: hotfix for production bug
 [2021-07-09T19:48:41] commit #428 — docs: update product roadmap
 [2021-07-10T12:44:15] commit #429 — refactor: restructure API layer
+[2021-07-10T18:01:49] commit #430 — fix: handle timeout errors
