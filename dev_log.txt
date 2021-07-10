@@ -426,3 +426,4 @@
 [2021-07-09T13:48:35] commit #426 — feat: add payment integration
 [2021-07-09T16:28:35] commit #427 — fix: hotfix for production bug
 [2021-07-09T19:48:41] commit #428 — docs: update product roadmap
+[2021-07-10T12:44:15] commit #429 — refactor: restructure API layer
