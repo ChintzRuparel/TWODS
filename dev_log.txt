@@ -429,3 +429,4 @@
 [2021-07-10T12:44:15] commit #429 — refactor: restructure API layer
 [2021-07-10T18:01:49] commit #430 — fix: handle timeout errors
 [2021-07-13T09:01:47] commit #431 — fix: resolve auth bug
+[2021-07-20T21:57:45] commit #432 — test: add integration tests
