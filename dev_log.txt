@@ -432,3 +432,4 @@
 [2021-07-20T21:57:45] commit #432 — test: add integration tests
 [2021-07-22T09:30:44] commit #433 — feat: add analytics tracking
 [2021-07-22T14:51:34] commit #434 — fix: patch payment gateway
+[2021-07-22T18:11:06] commit #435 — chore: add .gitignore rules
