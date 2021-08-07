@@ -445,3 +445,4 @@
 [2021-08-06T20:03:38] commit #445 — docs: update product roadmap
 [2021-08-06T23:50:12] commit #446 — feat: build core module
 [2021-08-07T08:56:42] commit #447 — feat: add notifications
+[2021-08-07T12:35:57] commit #448 — feat: implement websockets
