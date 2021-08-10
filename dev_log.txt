@@ -453,3 +453,4 @@
 [2021-08-09T15:30:32] commit #453 — test: add integration tests
 [2021-08-10T09:23:21] commit #454 — fix: correct data sync issue
 [2021-08-10T09:30:37] commit #455 — test: add integration tests
+[2021-08-10T15:27:35] commit #456 — chore: set up CI/CD pipeline
