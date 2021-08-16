@@ -464,3 +464,4 @@
 [2021-08-12T15:34:26] commit #464 — docs: write API documentation
 [2021-08-12T22:59:21] commit #465 — refactor: optimise database calls
 [2021-08-16T11:22:14] commit #466 — fix: resolve UI rendering bug
+[2021-08-16T18:22:10] commit #467 — fix: patch API response
