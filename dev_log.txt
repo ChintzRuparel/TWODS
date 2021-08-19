@@ -468,3 +468,4 @@
 [2021-08-16T19:10:09] commit #468 — perf: reduce bundle size
 [2021-08-16T23:35:02] commit #469 — feat: implement search
 [2021-08-19T09:50:40] commit #470 — feat: implement search
+[2021-08-19T11:13:59] commit #471 — chore: update README
