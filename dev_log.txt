@@ -473,3 +473,4 @@
 [2021-08-19T15:14:38] commit #473 — style: improve mobile responsiveness
 [2021-08-19T17:21:19] commit #474 — fix: resolve UI rendering bug
 [2021-08-19T22:05:13] commit #475 — fix: correct database query
+[2021-08-20T11:17:06] commit #476 — feat: add onboarding flow
