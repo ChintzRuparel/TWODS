@@ -475,3 +475,4 @@
 [2021-08-19T22:05:13] commit #475 — fix: correct database query
 [2021-08-20T11:17:06] commit #476 — feat: add onboarding flow
 [2021-08-20T23:10:05] commit #477 — chore: set up CI/CD pipeline
+[2021-08-22T17:39:14] commit #478 — refactor: simplify onboarding logic
