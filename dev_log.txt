@@ -479,3 +479,4 @@
 [2021-08-23T09:21:52] commit #479 — chore: clean up unused files
 [2021-08-23T13:45:35] commit #480 — feat: implement API endpoints
 [2021-08-23T14:14:19] commit #481 — fix: resolve auth bug
+[2021-08-23T19:44:10] commit #482 — test: add end-to-end test coverage
