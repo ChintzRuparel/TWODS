@@ -484,3 +484,4 @@
 [2021-08-24T18:59:54] commit #484 — perf: optimise load time
 [2021-08-24T23:10:38] commit #485 — refactor: simplify onboarding logic
 [2021-08-24T23:35:58] commit #486 — style: improve mobile responsiveness
+[2021-08-26T14:31:30] commit #487 — chore: add .gitignore rules
