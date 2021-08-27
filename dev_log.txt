@@ -489,3 +489,4 @@
 [2021-08-26T15:03:09] commit #489 — refactor: restructure API layer
 [2021-08-26T15:19:08] commit #490 — fix: resolve auth bug
 [2021-08-26T15:40:09] commit #491 — feat: build landing page
+[2021-08-27T09:31:16] commit #492 — refactor: clean up auth flow
