@@ -491,3 +491,4 @@
 [2021-08-26T15:40:09] commit #491 — feat: build landing page
 [2021-08-27T09:31:16] commit #492 — refactor: clean up auth flow
 [2021-08-27T14:45:23] commit #493 — feat: implement websockets
+[2021-08-30T11:24:37] commit #494 — fix: patch payment gateway
