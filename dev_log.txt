@@ -494,3 +494,4 @@
 [2021-08-30T11:24:37] commit #494 — fix: patch payment gateway
 [2021-08-30T11:31:49] commit #495 — test: add end-to-end test coverage
 [2021-08-30T15:18:25] commit #496 — feat: add notifications
+[2021-08-31T19:36:46] commit #497 — feat: build investor report module
