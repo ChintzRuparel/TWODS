@@ -500,3 +500,4 @@
 [2021-09-02T19:53:58] commit #500 — refactor: modularise components
 [2021-09-03T16:38:26] commit #501 — feat: implement search
 [2021-09-03T18:48:14] commit #502 — chore: update README
+[2021-09-03T21:17:55] commit #503 — refactor: optimise database calls
