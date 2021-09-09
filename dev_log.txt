@@ -504,3 +504,4 @@
 [2021-09-07T12:21:49] commit #504 — feat: add analytics tracking
 [2021-09-09T12:36:58] commit #505 — feat: implement search
 [2021-09-09T15:07:50] commit #506 — fix: correct data sync issue
+[2021-09-09T17:37:59] commit #507 — chore: configure environment variables
