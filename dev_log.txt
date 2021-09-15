@@ -508,3 +508,4 @@
 [2021-09-14T17:57:26] commit #508 — refactor: restructure API layer
 [2021-09-14T19:37:55] commit #509 — test: add integration tests
 [2021-09-14T20:45:21] commit #510 — test: add integration tests
+[2021-09-14T20:46:12] commit #511 — test: add end-to-end test coverage
