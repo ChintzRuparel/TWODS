@@ -510,3 +510,4 @@
 [2021-09-14T20:45:21] commit #510 — test: add integration tests
 [2021-09-14T20:46:12] commit #511 — test: add end-to-end test coverage
 [2021-09-16T11:15:29] commit #512 — feat: build landing page
+[2021-09-16T15:57:01] commit #513 — test: write unit tests for core logic
