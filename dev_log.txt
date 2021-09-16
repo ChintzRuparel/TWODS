@@ -513,3 +513,4 @@
 [2021-09-16T15:57:01] commit #513 — test: write unit tests for core logic
 [2021-09-16T17:03:34] commit #514 — perf: optimise load time
 [2021-09-16T18:38:26] commit #515 — docs: write API documentation
+[2021-09-16T19:07:18] commit #516 — feat: build admin panel
