@@ -515,3 +515,4 @@
 [2021-09-16T18:38:26] commit #515 — docs: write API documentation
 [2021-09-16T19:07:18] commit #516 — feat: build admin panel
 [2021-09-18T11:21:54] commit #517 — fix: patch payment gateway
+[2021-09-18T14:55:30] commit #518 — feat: build investor report module
