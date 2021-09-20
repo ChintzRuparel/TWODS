@@ -520,3 +520,4 @@
 [2021-09-18T17:49:49] commit #520 — chore: update README
 [2021-09-18T23:18:25] commit #521 — feat: add onboarding flow
 [2021-09-20T10:20:49] commit #522 — fix: hotfix for production bug
+[2021-09-20T12:07:46] commit #523 — feat: build investor report module
