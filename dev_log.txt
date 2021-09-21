@@ -525,3 +525,4 @@
 [2021-09-20T20:38:36] commit #525 — fix: patch API response
 [2021-09-20T21:28:07] commit #526 — refactor: optimise database calls
 [2021-09-21T11:09:11] commit #527 — feat: add export functionality
+[2021-09-21T13:50:56] commit #528 — feat: add analytics tracking
