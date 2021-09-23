@@ -533,3 +533,4 @@
 [2021-09-21T22:16:20] commit #533 — feat: add payment integration
 [2021-09-22T17:57:20] commit #534 — fix: hotfix for production bug
 [2021-09-22T18:05:08] commit #535 — test: add end-to-end test coverage
+[2021-09-22T22:17:00] commit #536 — feat: implement dashboard
