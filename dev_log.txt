@@ -537,3 +537,4 @@
 [2021-09-23T09:29:34] commit #537 — feat: build landing page
 [2021-09-23T11:02:30] commit #538 — test: add end-to-end test coverage
 [2021-09-24T09:46:27] commit #539 — docs: update product roadmap
+[2021-09-24T12:28:44] commit #540 — fix: patch payment gateway
