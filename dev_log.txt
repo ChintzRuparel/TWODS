@@ -541,3 +541,4 @@
 [2021-09-25T08:21:12] commit #541 — fix: patch payment gateway
 [2021-09-25T19:37:30] commit #542 — perf: cache database queries
 [2021-09-27T10:30:01] commit #543 — refactor: optimise database calls
+[2021-09-27T16:13:13] commit #544 — feat: add user authentication
