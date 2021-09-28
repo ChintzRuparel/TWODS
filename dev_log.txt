@@ -549,3 +549,4 @@
 [2021-09-28T09:19:06] commit #549 — feat: add notifications
 [2021-09-28T12:35:49] commit #550 — feat: add export functionality
 [2021-09-28T12:55:23] commit #551 — refactor: modularise components
+[2021-09-28T17:36:06] commit #552 — fix: hotfix for production bug
