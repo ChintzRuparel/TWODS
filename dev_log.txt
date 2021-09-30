@@ -555,3 +555,4 @@
 [2021-09-29T14:51:34] commit #555 — fix: resolve auth bug
 [2021-09-29T16:18:19] commit #556 — chore: update README
 [2021-09-29T22:21:24] commit #557 — fix: patch API response
+[2021-09-29T22:29:11] commit #558 — fix: correct data sync issue
