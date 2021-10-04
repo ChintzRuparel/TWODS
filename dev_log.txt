@@ -560,3 +560,4 @@
 [2021-09-30T11:29:32] commit #560 — feat: add payment integration
 [2021-09-30T23:54:28] commit #561 — perf: reduce bundle size
 [2021-10-02T12:44:03] commit #562 — fix: correct data sync issue
+[2021-10-04T09:10:55] commit #563 — refactor: optimise database calls
