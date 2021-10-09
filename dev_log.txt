@@ -563,3 +563,4 @@
 [2021-10-04T09:10:55] commit #563 — refactor: optimise database calls
 [2021-10-09T09:34:31] commit #564 — docs: write API documentation
 [2021-10-09T12:59:11] commit #565 — refactor: simplify onboarding logic
+[2021-10-09T16:23:41] commit #566 — fix: resolve auth bug
