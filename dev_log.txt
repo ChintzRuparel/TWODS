@@ -562,3 +562,4 @@
 [2021-10-02T12:44:03] commit #562 — fix: correct data sync issue
 [2021-10-04T09:10:55] commit #563 — refactor: optimise database calls
 [2021-10-09T09:34:31] commit #564 — docs: write API documentation
+[2021-10-09T12:59:11] commit #565 — refactor: simplify onboarding logic
