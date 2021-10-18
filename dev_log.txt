@@ -566,3 +566,4 @@
 [2021-10-09T16:23:41] commit #566 — fix: resolve auth bug
 [2021-10-10T17:08:28] commit #567 — refactor: modularise components
 [2021-10-13T08:33:05] commit #568 — fix: correct database query
+[2021-10-18T08:55:47] commit #569 — fix: resolve memory leak
