@@ -570,3 +570,4 @@
 [2021-10-18T16:02:45] commit #570 — fix: correct data sync issue
 [2021-10-18T19:43:26] commit #571 — test: add end-to-end test coverage
 [2021-10-19T21:46:48] commit #572 — style: polish UI components
+[2021-10-21T20:08:29] commit #573 — style: improve mobile responsiveness
