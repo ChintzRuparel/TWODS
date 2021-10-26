@@ -575,3 +575,4 @@
 [2021-10-25T15:12:16] commit #575 — feat: add analytics tracking
 [2021-10-25T18:08:34] commit #576 — refactor: optimise database calls
 [2021-10-25T21:38:08] commit #577 — chore: clean up unused files
+[2021-10-25T23:46:57] commit #578 — feat: implement search
