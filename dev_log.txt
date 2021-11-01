@@ -580,3 +580,4 @@
 [2021-10-29T08:18:55] commit #580 — chore: set up CI/CD pipeline
 [2021-11-01T09:48:31] commit #581 — chore: update README
 [2021-11-01T19:36:16] commit #582 — feat: implement search
+[2021-11-01T19:49:25] commit #583 — fix: resolve auth bug
