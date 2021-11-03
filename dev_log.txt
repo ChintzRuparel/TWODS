@@ -589,3 +589,4 @@
 [2021-11-02T22:24:17] commit #589 — fix: patch API response
 [2021-11-02T22:45:50] commit #590 — fix: patch API response
 [2021-11-03T12:46:42] commit #591 — chore: update dependencies
+[2021-11-03T12:55:56] commit #592 — feat: implement dashboard
