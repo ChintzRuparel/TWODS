@@ -587,3 +587,4 @@
 [2021-11-02T16:55:13] commit #587 — chore: set up CI/CD pipeline
 [2021-11-02T18:59:05] commit #588 — chore: update dependencies
 [2021-11-02T22:24:17] commit #589 — fix: patch API response
+[2021-11-02T22:45:50] commit #590 — fix: patch API response
