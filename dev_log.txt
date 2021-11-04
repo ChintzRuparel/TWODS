@@ -591,3 +591,4 @@
 [2021-11-03T12:46:42] commit #591 — chore: update dependencies
 [2021-11-03T12:55:56] commit #592 — feat: implement dashboard
 [2021-11-03T13:45:31] commit #593 — fix: correct data sync issue
+[2021-11-04T09:21:12] commit #594 — fix: patch API response
