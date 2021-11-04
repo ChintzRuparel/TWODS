@@ -592,3 +592,4 @@
 [2021-11-03T12:55:56] commit #592 — feat: implement dashboard
 [2021-11-03T13:45:31] commit #593 — fix: correct data sync issue
 [2021-11-04T09:21:12] commit #594 — fix: patch API response
+[2021-11-04T09:22:17] commit #595 — perf: reduce bundle size
