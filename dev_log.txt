@@ -597,3 +597,4 @@
 [2021-11-08T14:55:49] commit #597 — refactor: simplify onboarding logic
 [2021-11-08T19:35:23] commit #598 — feat: implement websockets
 [2021-11-08T21:43:09] commit #599 — refactor: simplify onboarding logic
+[2021-11-08T22:08:58] commit #600 — refactor: clean up auth flow
