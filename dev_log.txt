@@ -595,3 +595,4 @@
 [2021-11-04T09:22:17] commit #595 — perf: reduce bundle size
 [2021-11-04T15:49:14] commit #596 — feat: add onboarding flow
 [2021-11-08T14:55:49] commit #597 — refactor: simplify onboarding logic
+[2021-11-08T19:35:23] commit #598 — feat: implement websockets
