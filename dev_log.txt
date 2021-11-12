@@ -604,3 +604,4 @@
 [2021-11-10T18:12:47] commit #604 — fix: hotfix for production bug
 [2021-11-11T23:56:32] commit #605 — feat: add onboarding flow
 [2021-11-12T10:47:50] commit #606 — style: polish UI components
+[2021-11-12T15:53:43] commit #607 — fix: resolve memory leak
