@@ -602,3 +602,4 @@
 [2021-11-09T11:26:24] commit #602 — feat: build investor report module
 [2021-11-09T12:38:19] commit #603 — chore: add .gitignore rules
 [2021-11-10T18:12:47] commit #604 — fix: hotfix for production bug
+[2021-11-11T23:56:32] commit #605 — feat: add onboarding flow
