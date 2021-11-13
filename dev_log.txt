@@ -605,3 +605,4 @@
 [2021-11-11T23:56:32] commit #605 — feat: add onboarding flow
 [2021-11-12T10:47:50] commit #606 — style: polish UI components
 [2021-11-12T15:53:43] commit #607 — fix: resolve memory leak
+[2021-11-12T19:08:57] commit #608 — refactor: simplify onboarding logic
