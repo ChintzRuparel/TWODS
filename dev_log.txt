@@ -609,3 +609,4 @@
 [2021-11-12T19:50:01] commit #609 — feat: add payment integration
 [2021-11-12T20:56:52] commit #610 — chore: configure environment variables
 [2021-11-13T18:52:48] commit #611 — chore: clean up unused files
+[2021-11-13T22:52:47] commit #612 — chore: set up CI/CD pipeline
