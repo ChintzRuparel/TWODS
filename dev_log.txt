@@ -619,3 +619,4 @@
 [2021-11-16T20:42:47] commit #619 — fix: patch API response
 [2021-11-18T11:47:39] commit #620 — docs: update product roadmap
 [2021-11-18T12:50:24] commit #621 — docs: update product roadmap
+[2021-11-19T09:13:35] commit #622 — chore: add .gitignore rules
