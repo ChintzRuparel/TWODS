@@ -624,3 +624,4 @@
 [2021-11-19T18:10:40] commit #624 — style: polish UI components
 [2021-11-19T20:13:50] commit #625 — feat: implement search
 [2021-11-21T12:42:22] commit #626 — fix: patch payment gateway
+[2021-11-21T20:58:27] commit #627 — fix: handle timeout errors
