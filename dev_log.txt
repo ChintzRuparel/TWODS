@@ -631,3 +631,4 @@
 [2021-11-22T14:56:48] commit #631 — feat: build core module
 [2021-11-22T21:17:23] commit #632 — test: add integration tests
 [2021-11-22T22:23:55] commit #633 — feat: add payment integration
+[2021-11-23T16:49:48] commit #634 — fix: patch payment gateway
