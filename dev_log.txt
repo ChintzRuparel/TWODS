@@ -630,3 +630,4 @@
 [2021-11-22T08:05:29] commit #630 — refactor: optimise database calls
 [2021-11-22T14:56:48] commit #631 — feat: build core module
 [2021-11-22T21:17:23] commit #632 — test: add integration tests
+[2021-11-22T22:23:55] commit #633 — feat: add payment integration
