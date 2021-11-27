@@ -638,3 +638,4 @@
 [2021-11-27T08:32:53] commit #638 — docs: write API documentation
 [2021-11-27T11:44:09] commit #639 — chore: clean up unused files
 [2021-11-27T15:36:33] commit #640 — refactor: modularise components
+[2021-11-27T18:42:55] commit #641 — fix: correct data sync issue
