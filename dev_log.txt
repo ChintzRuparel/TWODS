@@ -635,3 +635,4 @@
 [2021-11-26T11:13:57] commit #635 — feat: add notifications
 [2021-11-26T16:11:52] commit #636 — chore: clean up unused files
 [2021-11-26T19:49:22] commit #637 — refactor: simplify onboarding logic
+[2021-11-27T08:32:53] commit #638 — docs: write API documentation
