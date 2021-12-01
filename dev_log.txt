@@ -640,3 +640,4 @@
 [2021-11-27T15:36:33] commit #640 — refactor: modularise components
 [2021-11-27T18:42:55] commit #641 — fix: correct data sync issue
 [2021-11-29T23:19:47] commit #642 — refactor: simplify onboarding logic
+[2021-11-30T21:33:34] commit #643 — feat: implement search
