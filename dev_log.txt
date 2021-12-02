@@ -641,3 +641,4 @@
 [2021-11-27T18:42:55] commit #641 — fix: correct data sync issue
 [2021-11-29T23:19:47] commit #642 — refactor: simplify onboarding logic
 [2021-11-30T21:33:34] commit #643 — feat: implement search
+[2021-12-02T08:10:56] commit #644 — refactor: clean up auth flow
