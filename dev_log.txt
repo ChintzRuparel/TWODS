@@ -643,3 +643,4 @@
 [2021-11-30T21:33:34] commit #643 — feat: implement search
 [2021-12-02T08:10:56] commit #644 — refactor: clean up auth flow
 [2021-12-02T09:42:04] commit #645 — perf: reduce bundle size
+[2021-12-02T13:03:54] commit #646 — fix: patch payment gateway
