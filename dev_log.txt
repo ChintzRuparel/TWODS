@@ -651,3 +651,4 @@
 [2021-12-03T14:07:55] commit #651 — style: polish UI components
 [2021-12-03T15:04:09] commit #652 — feat: build landing page
 [2021-12-03T19:45:23] commit #653 — chore: set up CI/CD pipeline
+[2021-12-03T22:17:10] commit #654 — perf: reduce bundle size
