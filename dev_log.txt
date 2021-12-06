@@ -655,3 +655,4 @@
 [2021-12-05T09:51:19] commit #655 — fix: correct database query
 [2021-12-05T16:27:51] commit #656 — feat: build investor report module
 [2021-12-05T16:36:09] commit #657 — feat: add payment integration
+[2021-12-05T19:17:13] commit #658 — feat: build admin panel
