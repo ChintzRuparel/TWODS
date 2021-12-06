@@ -657,3 +657,4 @@
 [2021-12-05T16:36:09] commit #657 — feat: add payment integration
 [2021-12-05T19:17:13] commit #658 — feat: build admin panel
 [2021-12-05T19:37:43] commit #659 — style: polish UI components
+[2021-12-05T21:50:13] commit #660 — fix: resolve auth bug
