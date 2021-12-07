@@ -658,3 +658,4 @@
 [2021-12-05T19:17:13] commit #658 — feat: build admin panel
 [2021-12-05T19:37:43] commit #659 — style: polish UI components
 [2021-12-05T21:50:13] commit #660 — fix: resolve auth bug
+[2021-12-07T13:18:48] commit #661 — refactor: simplify onboarding logic
