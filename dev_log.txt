@@ -662,3 +662,4 @@
 [2021-12-07T15:00:52] commit #662 — feat: build admin panel
 [2021-12-07T17:02:18] commit #663 — feat: implement API endpoints
 [2021-12-07T20:41:11] commit #664 — style: polish UI components
+[2021-12-07T23:09:02] commit #665 — style: polish UI components
