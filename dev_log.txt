@@ -664,3 +664,4 @@
 [2021-12-07T20:41:11] commit #664 — style: polish UI components
 [2021-12-07T23:09:02] commit #665 — style: polish UI components
 [2021-12-07T23:19:57] commit #666 — refactor: restructure API layer
+[2021-12-09T12:12:38] commit #667 — fix: resolve memory leak
