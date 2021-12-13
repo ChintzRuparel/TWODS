@@ -668,3 +668,4 @@
 [2021-12-10T19:34:32] commit #668 — fix: resolve auth bug
 [2021-12-10T22:14:39] commit #669 — perf: cache database queries
 [2021-12-11T20:43:36] commit #670 — fix: patch payment gateway
+[2021-12-13T12:55:54] commit #671 — refactor: simplify onboarding logic
