@@ -671,3 +671,4 @@
 [2021-12-13T12:55:54] commit #671 — refactor: simplify onboarding logic
 [2021-12-13T16:32:12] commit #672 — fix: edge case in user flow
 [2021-12-13T18:50:33] commit #673 — feat: build landing page
+[2021-12-13T18:55:44] commit #674 — test: add integration tests
