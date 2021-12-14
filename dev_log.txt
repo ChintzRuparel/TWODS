@@ -673,3 +673,4 @@
 [2021-12-13T18:50:33] commit #673 — feat: build landing page
 [2021-12-13T18:55:44] commit #674 — test: add integration tests
 [2021-12-14T11:23:30] commit #675 — fix: edge case in user flow
+[2021-12-14T11:54:02] commit #676 — feat: implement search
