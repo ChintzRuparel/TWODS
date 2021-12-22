@@ -679,3 +679,4 @@
 [2021-12-15T21:06:48] commit #679 — feat: build admin panel
 [2021-12-21T20:26:13] commit #680 — feat: implement dashboard
 [2021-12-21T21:34:07] commit #681 — feat: implement websockets
+[2021-12-22T12:46:45] commit #682 — refactor: restructure API layer
