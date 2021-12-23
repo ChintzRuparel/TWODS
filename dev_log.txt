@@ -683,3 +683,4 @@
 [2021-12-22T15:03:58] commit #683 — feat: build investor report module
 [2021-12-22T18:03:19] commit #684 — fix: resolve auth bug
 [2021-12-22T18:33:06] commit #685 — chore: update README
+[2021-12-22T22:35:46] commit #686 — feat: add user authentication
