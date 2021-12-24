@@ -685,3 +685,4 @@
 [2021-12-22T18:33:06] commit #685 — chore: update README
 [2021-12-22T22:35:46] commit #686 — feat: add user authentication
 [2021-12-24T08:56:13] commit #687 — refactor: simplify onboarding logic
+[2021-12-24T13:15:37] commit #688 — feat: add analytics tracking
