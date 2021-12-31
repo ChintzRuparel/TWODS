@@ -694,3 +694,4 @@
 [2021-12-31T10:33:31] commit #694 — feat: implement search
 [2021-12-31T11:23:13] commit #695 — feat: add onboarding flow
 [2021-12-31T13:26:23] commit #696 — feat: add data pipeline
+[2021-12-31T16:31:05] commit #697 — chore: add .gitignore rules
